@@ -6,8 +6,7 @@
 > 5. git push -u
 
 ## Nomor 2
-> 1. GIT Revert akan membatalkan semua perubahan yang ada tanpa menghapus commit terakhir. Jika menggunakan GIT Reset, commit terakhir akan hilang.
-> 2. GIT Revert akan membatalkan semua perubahan yang ada tanpa menghapus commit terakhir. Jika menggunakan GIT Reset, commit terakhir akan hilang.
+> Perintah git reset akan mengembalikan file ke kondisi sebelumnya, kemudian menghapus log commit. Perintah git revert mengembalikan file dengan tidak menghapus log commit.
 
 ## Nomor 3
 > Github untuk menyimpan repo
